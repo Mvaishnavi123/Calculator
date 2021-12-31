@@ -8,4 +8,5 @@ This is made using Html, CSS, and Javascript.
 Running the script is simple! Just open the browser and type or paste this: "file:///C:/Users/DELL/vsc/calculator/calculator.html" 
 
 # Result
-![imp](https://user-images.githubusercontent.com/79656394/147825109-b4da78c3-fd77-458d-80ec-898064b1ff96.png)
+![cal](https://user-images.githubusercontent.com/79656394/147825169-8d9e008b-03cb-4963-80f2-6744460ab9d5.png)
+
